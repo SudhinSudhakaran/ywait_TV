@@ -1,0 +1,6 @@
+export enum BUILD_SOURCE {
+  YWAIT = 'YWAIT',
+  ASTER = 'ASTER',
+  ALNOOR = 'ALNOOR',
+  INSTA ='INSTA'
+}

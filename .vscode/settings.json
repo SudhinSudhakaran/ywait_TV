@@ -1,0 +1,10 @@
+{
+      "cSpell.words": [
+            "netinfo",
+            "Sudhakaran",
+            "Sudhin",
+            "ywaittvapp"
+      ],
+      "C_Cpp.errorSquiggles": "disabled",
+       "flow.pathToFlow": "${workspaceFolder}/node_modules/.bin/flow",
+}
